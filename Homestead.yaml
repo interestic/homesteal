@@ -1,8 +1,0 @@
-provider: virtualbox
-folders:
-    - map: ./../../oscillo
-      to: /home/vagrant/Code
-      type: "nfs"
-sites:
-    - map: homestead.app
-      to: /home/vagrant/Code/oscillo/public
